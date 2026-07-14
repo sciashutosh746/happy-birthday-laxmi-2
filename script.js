@@ -1,5 +1,133 @@
 
-const text=`My beautiful Laxmi,\n\nHappy Birthday, my love.\n\nWe're not a perfect couple.\n\nWe argue.\nWe get angry.\nSometimes we misunderstand each other.\n\nBut that's never been the end of our story.\n\nNo matter how much we fight...\nNo matter how life tries to pull us apart...\n\nOur hearts always find their way back to each other.\n\nWe heal every crack with something movies can never truly show...\n\nReal love.\n\nA love that stays.\nA love that forgives.\nA love that grows stronger after every storm.\n\nI don't want just beautiful moments with you.\nI want ordinary mornings...\nSilly evenings...\nLittle arguments...\nBig dreams...\nAnd a lifetime of choosing each other.\n\nOne day we'll grow old.\n\nMaybe we'll walk slowly.\n\nMaybe we'll need each other's support.\n\nAnd I'll still be there...\nHolding your hand...\nSmiling at you like I do today.\n\nBecause my heart already knows...\n\nYou are the love of my life.\n\nI love you, Laxmi.\n\nMore than words could ever explain.\n\nHappy Birthday, My Puku.\n\nForever Yours,\nAshutosh ❤️`;
+const text=`My beautiful Laxmi,
+
+Happy Birthday, my love. ❤️
+
+Today is the day the world received the most beautiful soul I've ever known, and I feel incredibly lucky that life brought you into mine.
+
+There are so many things I want to tell you that words never seem enough. But today, I'll try.
+
+If someone asked me what the most beautiful thing in my life is, I wouldn't point at the sky, the stars, or the sunrise.
+
+I'd simply smile...
+
+...because it's you.
+
+You walked into my life so naturally that I never realized when you became my safest place.
+
+Your smile has a strange magic...
+
+It makes my worst days feel lighter.
+
+Your voice calms every storm inside me.
+
+Your happiness has somehow become one of my favorite prayers.
+
+Thank you for every smile.
+
+Every silly conversation.
+
+Every memory.
+
+Every moment you've unknowingly made my life brighter.
+
+And now I want to tell you something straight from my heart...
+
+You know...
+
+We're not a perfect couple.
+
+We argue.
+
+We get angry.
+
+Sometimes we misunderstand each other.
+
+Sometimes our egos become louder than our hearts.
+
+There are moments when it feels like we're being pulled in different directions.
+
+But do you know what I love the most about us?
+
+No matter how much we fight...
+
+And no matter how much everything tries to pull us apart...
+
+Our hearts always find their way back to each other.
+
+They heal every damage with our precious real love.
+
+Not like in the movies...
+
+But a real-life love that grows together, lives together, and grows old together.
+
+I don't want a perfect love story.
+
+I want OUR love story.
+
+A story where we choose each other every single day.
+
+I'll love you the same when we're old.
+
+Even when we're unable to walk.
+
+We'll still be supporting each other.
+
+We'll still be laughing together.
+
+We'll still be holding each other's hands.
+
+We'll still be loving each other exactly the same.
+
+Because every part of our hearts already knows...
+
+We love each other.
+
+And we're together in this long journey.
+
+I don't want a love that lasts for a season.
+
+I want a love that grows with us...
+
+Laughs with us...
+
+Cries with us...
+
+And grows old with us.
+
+If life gives me one wish...
+
+It wouldn't be money.
+
+It wouldn't be success.
+
+It would simply be...
+
+More birthdays with you.
+
+Thank you for existing.
+
+Thank you for being my peace.
+
+Thank you for being my happiness.
+
+I love you, Laxmi.
+
+So much more than words could ever explain. ❤️
+
+Happy Birthday, My Puku. 🧡
+
+Forever Yours,
+
+Ashutosh ❤️
+
+"No matter how many birthdays come and go...
+
+I'll always choose you...
+
+Every single time."
+
+♾️ Forever & Always ♾️`;
 function next1(){scene1.classList.add('hidden');scene2.classList.remove('hidden');hearts();}
 function next2(){scene2.classList.add('hidden');scene3.classList.remove('hidden');type();}
 function next3(){
