@@ -3,25 +3,25 @@ const text=`My beautiful Laxmi,
 
 Happy Birthday, my love. ❤️
 
-Today is the day the world received the most beautiful soul I've ever known, and I feel incredibly lucky that life brought you into mine.
+Today is the day the world received the most hehe krne wali soul😁😁 bich m tokne wali soul itna sara ek sath bolne wali s ladki😁😁, and I feel incredibly lucky that life brought you into mine.
 
-There are so many things I want to tell you that words never seem enough. But today, I'll try.
+There are so many things I want to tell you that words never seem enough. But I'll try.
 
-If someone asked me what the most beautiful thing in my life is, I wouldn't point at the sky, the stars, or the sunrise.
+If someone asked me what the most beautiful thing in my life is, I wouldn't point at anything else or anyone 
 
 I'd simply smile...
 
 ...because it's you.
 
-You walked into my life so naturally that I never realized when you became my safest place.
+You walked into my life so naturally first like a friend now my evrything that I never realized when you became my safest place.
 
-Your smile has a strange magic...
+I just love your smile like nothing in my life😊😊
 
 It makes my worst days feel lighter.
 
-Your voice calms every storm inside me.
+Your voice calms me everytime it takes away all the worries inside my head
 
-Your happiness has somehow become one of my favorite prayers.
+Your happiness is the gift I ask from god everyday because it gives my heart peace 
 
 Thank you for every smile.
 
@@ -77,7 +77,7 @@ We'll still be laughing together.
 
 We'll still be holding each other's hands.
 
-We'll still be loving each other exactly the same.
+We'll still be loving each other exactly the same. some times things will not go the way we want but we'll be with each other we'll never let anyone else come between us
 
 Because every part of our hearts already knows...
 
@@ -103,9 +103,9 @@ It wouldn't be success.
 
 It would simply be...
 
-More birthdays with you.
+A beautiful peaceful life with my happy small sweet family our kids aur parents uske alawa no one's allowed😄😄
 
-Thank you for existing.
+Thank you for being with me supporting me in the times when I loose confidence on myself.
 
 Thank you for being my peace.
 
@@ -113,13 +113,13 @@ Thank you for being my happiness.
 
 I love you, Laxmi.
 
-So much more than words could ever explain. ❤️
+So much more than words could ever explain. 🧡
 
-Happy Birthday, My Puku. 🧡
+Happy Birthday, Meri Puku. 🧡😘
 
-Forever Yours,
+Your Love
 
-Ashutosh ❤️
+Ashutosh 
 
 "No matter how many birthdays come and go...
 
