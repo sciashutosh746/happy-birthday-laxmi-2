@@ -1,0 +1,12 @@
+
+body{margin:0;font-family:Georgia,serif;background:linear-gradient(#12031d,#ffb6d5);color:#fff;overflow-x:hidden}
+.center,.letter{max-width:850px;margin:8vh auto;text-align:center;padding:30px}
+button{background:#ff4f9a;color:#fff;border:none;padding:14px 24px;border-radius:30px;font-size:18px;cursor:pointer}
+.hidden{display:none}
+#stars:before{content:"✨ ✨ ✨ ✨ ✨ ✨ ✨";position:fixed;top:20px;left:0;width:100%;text-align:center;animation:twinkle 2s infinite}
+@keyframes twinkle{50%{opacity:.4}}
+.heart{position:fixed;font-size:22px;animation:fall 6s linear forwards}
+@keyframes fall{from{transform:translateY(-10vh)}to{transform:translateY(110vh)}}
+#msgs{font-size:2rem;min-height:120px}
+.love{animation:pulse 1.5s infinite}
+@keyframes pulse{50%{transform:scale(1.08)}}
